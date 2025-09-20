@@ -1,5 +1,4 @@
-Zomato Data Analysis Using Python 🍽️
-Project Overview
+Zomato Data Analysis
 
 This project focuses on analyzing Zomato restaurant data to uncover insights about customer preferences, restaurant trends, and delivery patterns. The dataset was cleaned, preprocessed, and analyzed to provide actionable insights for food businesses and customers.
 
